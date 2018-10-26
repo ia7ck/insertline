@@ -4,7 +4,7 @@ This plugin provides InsertLineBelow and InsertLineAbove action for [micro](http
 
 ## Usage
 
-Type `insertlinbelow` in command mode, and empty line is inserted below the line which cursor located.
+Type `insertlinbelow` in command mode, then empty line is inserted below the line which cursor located.
 
 Meanwhile, `insertlineabove` command inserts empty line above the current line.
 
