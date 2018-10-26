@@ -13,7 +13,7 @@ Meanwhile, `insertlineabove` command inserts empty line above the current line.
 The default key binding to `inserlinebelow` is <kbd>Alt-Enter</kbd> and `insertlineabove` is not set.
 
 To modify this binding, edit your `bindings.json` (placed in `~/.config/micro/` on Linux)
-. For example, to bind <kbd>CtrlSpace</kbd> to `insertlineabove`, put following in `binding.json` file.
+. For example, to bind <kbd>CtrlSpace</kbd> to `insertlineabove`, put following in `bindings.json` file.
 
 ```json
 {
