@@ -4,7 +4,7 @@ This plugin provides Insert Line Below/Above action for [micro](https://micro-ed
 
 ## Installation
 
-1. Put our [channel](https://raw.githubusercontent.com/ia7ck/insertline/master/channel.json) in `pluginchannels` option in your `settings.json` like so:
+1. Put our [channel](https://raw.githubusercontent.com/ia7ck/insertline/master/channel.json) in `pluginchannels` option in your `~/.config/micro/settings.json` like so:
 
 ```json
 {
