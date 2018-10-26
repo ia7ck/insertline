@@ -20,3 +20,5 @@ To modify this binding, edit your `bindings.json` (placed in `~/.config/micro/` 
   "CtrlSpace": "insertline.insertLineAbove"
 }
 ```
+
+See also [keybindings.md](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md) .
