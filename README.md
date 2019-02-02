@@ -2,6 +2,9 @@
 
 This plugin provides Insert Line Below/Above action for [micro](https://micro-editor.github.io/) editor.
 
+## Demo
+![](https://user-images.githubusercontent.com/23146842/52163684-cfccee80-2728-11e9-8cf6-0a7a966e5e4e.gif)
+
 ## Installation
 
 1. Put our [channel](https://raw.githubusercontent.com/ia7ck/insertline/master/channel.json) in `pluginchannels` option in your `~/.config/micro/settings.json` like so:
