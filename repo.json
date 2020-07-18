@@ -4,10 +4,10 @@
   "Tags": ["edit", "macro"],
   "Versions": [
     {
-      "Version": "0.1.0",
-      "Url": "https://github.com/ia7ck/insertline/archive/v0.1.0.zip",
+      "Version": "2.0.0",
+      "Url": "https://github.com/ia7ck/insertline/archive/v2.0.0.zip",
       "Require": {
-        "micro": ">=1.4.0"
+        "micro": ">=2.0.0"
       }
     }
   ]

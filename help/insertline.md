@@ -17,7 +17,7 @@ To modify this binding, edit your `bindings.json` (placed in `~/.config/micro/` 
 
 ```json
 {
-  "CtrlSpace": "insertline.insertLineAbove"
+  "CtrlSpace": "lua:insertline.insertLineAbove"
 }
 ```
 
