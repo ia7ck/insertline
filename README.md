@@ -1,6 +1,6 @@
 # insertline
 
-This plugin provides Insert Line Below/Above action for [micro](https://micro-editor.github.io/) editor.
+This plugin provides Insert Line Below/Above action for [micro](https://micro-editor.github.io/) editor. Required micro version is __>=v.2.0.0__.
 
 ## Demo
 ![](https://user-images.githubusercontent.com/23146842/52163684-cfccee80-2728-11e9-8cf6-0a7a966e5e4e.gif)
